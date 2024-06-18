@@ -12,7 +12,7 @@
     Author = 'AF'
 
     # Company or vendor of this module
-    CompanyName = 'Ligentia'
+    CompanyName = ''
 
     # Description of the functionality provided by this module
     Description = 'A module for updating the database to the second-to-last EF migration.'
